@@ -35,7 +35,7 @@ if "agent" not in st.session_state :
 if "messages" not in st.session_state :
     st.session_state.messages = []
 
-st.title("우리 회사 챗봇")
+st.title("덕피티")
 
 prompt = st.chat_input("무엇이든 물어보세요")
 if prompt:
