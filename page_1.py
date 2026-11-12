@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("DDAK-GPT")
+st.title("부성부성부성")
